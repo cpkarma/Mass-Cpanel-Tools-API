@@ -9,4 +9,4 @@
 4. Mass Cpanel To WHM Reseller PHP API [ [Tool Link](https://github.com/orionhridoy/Mass-Cpanel-To-WHM-Php) ]
 5. Mass Cpanel To WHM Root PHP API [ [Tool Link](https://github.com/orionhridoy/Mass-Cpanel-To-WHM-Php) ]
 
-<img src=image/image.JPG>
+<img src=image/img.JPG>
