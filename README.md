@@ -1,6 +1,6 @@
 # Mass Cpanel Tools API PHP
 
-**API URL:** https://masskiller.extentit.com
+**API URL:** https://cpkarma.cc
 
 **[ API Included ]**
 1. Mass Cpanel Checker PHP API [ [Tool Link](https://github.com/orionhridoy/Mass-Cpanel-Checker-Php) ]
